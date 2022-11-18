@@ -59,7 +59,7 @@ Use the starter Jupyter notebook to complete the following steps.
 
 1. Create two variables called `my_btc` and `my_eth`. Set them equal to `1.2` and `5.3`, respectively.
 
-2. Use the `requests` library to fetch the current price in US dollars (`USD`) of bitcoin (`BTC`) and ethereum (`ETH`) using the **Alternative Free Crypto API** endpoints provided in the starter notebook.
+2. Use the `requests` library to fetch the current price in Canadian dollars (`CAD`) of bitcoin (`BTC`) and ethereum (`ETH`) using the **Alternative Free Crypto API** endpoints provided in the starter notebook.
 
 3. Parse the API JSON response to select only the crypto prices and store each price in a variable.
 
